@@ -1,6 +1,6 @@
 [project]
 name = "amazon_pricepal"
-version = "0.1.0"
+version = "0.1.2"
 description = "A package to fetch Amazon product prices."
 authors = [
     { name = "David", email = "daviddum345@gmail.com" }
